@@ -1,22 +1,24 @@
-🖐🖐 WHO I AM ?
+# About Me
 
-Sohan Beniwal 🧑🧑
+I am a final-year Computer Science Engineering student at JECRC University with a passion for technology and software development. My skill set includes:
 
-@sohan-beniwal
+- **Programming Languages**: C, C++, Kotlin, SQL
+- **Tools**: Android Studio, MySQL, Canva, Figma
+- **Key Concepts**: Firebase, Object-Oriented Programming, Data Structures
 
-B.Tech Computer Science Student 🖥🖥💻💻📱📱
+## Current Experience
 
-👔👔Student Who is Trying to learn New things
+I am currently interning as an **Android Development Intern** at Prodigy InfoTech, where I am gaining hands-on experience and further developing my technical skills. Additionally, I have a background in manual testing from my freelance work at **uTest**, which has provided me with a comprehensive view of software development processes.
 
-And wants to explore the new technology with my available resources. 🤩🤩
+## Certifications
 
-And I am also in love with Music and Food.🎵🔊🎙 🍔🍟   
+- SQL (Basic and Intermediate)
+- Problem Solving
 
+## Contributions and Leadership
 
+- Served as the **Additional Technical Secretary** of the Student Council at JECRC University, leading multiple tech communities and organizing seminars.
+- Contributed to the **Google Crowd Source Community Jaipur**.
+- Participated as a **science communicator** in the **ISRO Science Exhibition**.
 
-At this point of time these are the only lines which can define me. 
-
-<!---
-sohan-beniwal/sohan-beniwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview🖐🖐 link to take a look at your changes.
---->
+I am excited to connect with like-minded professionals and explore opportunities in software development and tech innovation.
